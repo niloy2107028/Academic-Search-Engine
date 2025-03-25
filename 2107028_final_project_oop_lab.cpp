@@ -1,7 +1,7 @@
 #include <bits/stdc++.h>
 
 /*
-This project is dedicated to the development of an academic search engine.
+This console project is dedicated to the development of an academic search engine.
 Designed specifically for my university, KUET.
 With the aim of enhancing the efficiency and simplicity of academic endeavors.
 */
